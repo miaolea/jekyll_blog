@@ -1,0 +1,49 @@
+title: Mia Olea Vettestad
+email: mia.vettestad.95@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "jekyll_blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: Mia Olea Vettestad # add your name
+author-pic: adam-face.jpg
+about-author: My name is Mia Olea Vettestad. I'm an engineering student, majoring in Cybernetics and Robotics at NTNU Trondheim, Norway. I spent my 4th, and second last, year of college at TTU in Lubbock, Texas. This blog mostly contains my experiences from a year abroad.
+
+# Contact links
+email: mia.vettestad.95@gmail.com # Add your Email address
+phone: 41854518 # Add your Phone number
+website: # Add your website, do not add http://
+linkedin: miavettestad # Add your Linkedin handle
+github: miaolea # Add your Github handle
+twitter: # Add your Twitter handle
+facebook: miaoleavettestad # Add your Facebook handle
+instagram: # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+# discus_identifier: mr-brown # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
