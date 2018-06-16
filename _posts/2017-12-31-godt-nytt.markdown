@@ -1,11 +1,16 @@
 ---
 layout: post
-title:  This is a test, y'all!
+title:  Godt nytt år!
 date:   2017-12-31 16:32:20 +0100
-img: bendik1 # Add image post (optional)
-tags: [TTU, Christmas]
+img: bendik1.jpg # Add image post (optional)
+tags: [TTU, December17, Christmas]
 author: Mia Olea 
 ---
 Hei! Jeg håper dere nyter siste rest av 2017 med hvilepuls og godt selskap. Jeg har børstet støv av mine ikke-så-mye-å-skryte-av-skiferdigheter to dager på rad, med slalåm i går og langrenn i dag. Gradestokken har vist ned mot -15°C, men det finnes jo ikke dårlig vær, bare dårlig klær, ikke sant? 2018 ønskes velkommen fra min side på Kvitfjell, med min kjære B. 
+
+![]({{site.baseurl}}/assets/img/bendik3.jpg)
+![]({{site.baseurl}}/assets/img/kvitfjell1.jpg)
+![]({{site.baseurl}}/assets/img/kvitfjell2.jpg)
+![]({{site.baseurl}}/assets/img/bendik2.jpg)
 
 Uansett så ville jeg bare titte innom og ønske deg og dine et godt nytt år!
