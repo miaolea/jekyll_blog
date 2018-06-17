@@ -1,0 +1,17 @@
+---
+layout: post
+title:  The Big Apple
+date:   2017-11-17 16:32:20 +0100
+img: DSC00514.jpg # Add image post (optional)
+tags: [TTU, November17]
+author: Mia Olea 
+---
+Hei og god fredag! De siste dagene har gått i ett, men jeg begynner så smått å se enden (aka JULEFERIE). I en uke har vi prøvd å finne en løsning på et litt uforslåelig problem, men takket være en hjelpsom foreleser fant vi endelig ut hva som forårsaket en rar oppførsel hos XOR-gaten vi tester. Så da kan jeg stryke det av stress-listen min. I tillegg har jeg kommet meg litt lenger på et annet prosjekt som også har stått på stedet hvil litt for lenge. Fredagsfølelsen er forduftet, denne helgen som de fleste andre skal tilbringes på skolen, men det gjør meg ingenting så lenge jeg faktisk kommer meg videre med prosjektene og slipper å stange hodet i veggen i utallige timer til. 
+
+![]({{site.baseurl}}/assets/img/DSC00535.jpg)
+
+Må bare skyte inn at bildene er gamle. Hesten er for tiden dekket i rødt fordi sesongens siste hjemmekamp står for tur i morgen (når jeg skriver hjemmekamp så refererer jeg til amerikansk fotball). 
+
+Men nok om det. Over til overskriften: Mia, Kimberly og jeg skal tilbringe 6 dager i selveste New York før vi vender snuten tilbake mot Lubbock og et nytt semester. Det er jo litt ille at jeg kun har fått sett to byer (Lubbock og Amarillo) i løpet av de 3 månedene jeg har bodd her, men jeg håper at neste semester blir litt roligere slik at jeg kan se mer av dette store landet. Jeg har tenkt meg til Las Vegas og Los Angeles i mars, Austin må jeg oppleve, og så må jeg få til en ranch-tur til Colorado før jeg kan si meg fornøyd. Slapp av, jeg har ikke gitt opp skolen helt enda, jeg bare satser på at jeg kan ta helgene fri og oppleve litt i stedet for å tilbringe alle ukens 7 dager på dette beige campuset. 
+
+Nå må jeg runde av her. Nok et prosjekt venter, men i kveld skal jeg på en etterlengtet crossfit-økt. Vi snakkes plutselig!
