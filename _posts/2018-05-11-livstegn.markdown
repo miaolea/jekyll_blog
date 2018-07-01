@@ -1,0 +1,15 @@
+---
+layout: post
+title:  Livstegn
+date:   2018-05-11 16:32:20 +0100
+img: ttu1.jpg # Add image post (optional)
+tags: [TTU, May18]
+author: Mia Olea 
+---
+Heisann! Nå er det en stund siden sist og jeg tenkte at det var på tide å gi lyd fra seg. I dag tidlig fullførte jeg min første eksamen og det gikk helt greit med tanke på at jeg ikke akkurat øvde så mye. Jeg har en til lørdag kveld før den vanskeligste venter tirsdag ettermiddag. Det er skikkelig varmt og fint her, med godt over 30 grader Celsius og det siste jeg vil er å sitte inne og lese, men nå er det heller ikke så frykelig lenge igjen til ferie.
+
+Min kjære navnsøster og ferdigstuderte (GRATULERER SÅ MYE MED VEL GJENNOMFØRT STUDIE, GRETLAND!!! Du kommer til å være en kjemperessurs i arbeidslivet!) Gretland satte seg på flyet til Norge torsdag morgen og er allerede trygt hjemme på norsk jord (tipper det er en frøken som koser seg med reker nå, ja). Vi hadde en aldri så liten avskjedsmiddag, Grace, Kimberly, Mia og jeg, onsdag kveld. Kimberly og Mia havnet tilfeldigvis her for noen dager siden da de egentlig hadde kjørt seg vill (hvis jeg husker rett, haha). Det kunne ikke vært en bedre "bomtur", for restauranten/baren de endte opp på var noe virkelig utenom det vanlige. Jeg lar bildene tale for seg og lover å komme sterkere tilbake etter semesterslutt. Da står tross alt tidenes jentetur til LA og ranchferie på agendagen, bra bloggmateriale med andre ord! 
+
+![]({{site.baseurl}}/assets/img/ttu2.jpg)
+![]({{site.baseurl}}/assets/img/ttu3.jpg)
+![]({{site.baseurl}}/assets/img/ttu4.jpg)
