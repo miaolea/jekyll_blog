@@ -2,7 +2,7 @@
 layout: post
 title:  Hjemlengsel
 date:   2018-04-26 16:32:20 +0100
-img: norge1.jpg # Add image post (optional)
+img: notteroy.jpg # Add image post (optional)
 tags: [TTU, April18]
 author: Mia Olea 
 ---
