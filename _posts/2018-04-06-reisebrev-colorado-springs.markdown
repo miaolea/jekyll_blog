@@ -3,7 +3,7 @@ layout: post
 title:  Reisebrev - Colordo Springs
 date:   2018-04-06 16:32:20 +0100
 img: DSC01710.jpg # Add image post (optional)
-tags: [TTU, April18, Colorado Springs]
+tags: [TTU, April18, Colorado Springs, Reisebrev]
 author: Mia Olea 
 ---
 Heisann! Nå er vel påsken vel overstått for de fleste, og april har allerede meldt sin ankomst. Min påskeferie var vel egentlig spring break som var for to uker siden, men andre påskedag var i det minste forelesningsfri. Skulle jo bare mangle etter at jeg hadde en 210 minutters eksamen på selveste påskeaften, si. Nå har jeg skrevet meg litt bort, som jeg ofte gjør. Dette innlegget skulle jo bli et reisebrev fra Colorado Springs, så løst og fast kan vi prate om siden. Bendik kom kjørende fra Denver 21. mars og vi fikk noen fine dager i Lubbock sammen før jeg slo følge på tilbakeveien. 

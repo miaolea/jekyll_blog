@@ -3,7 +3,7 @@ layout: post
 title:  Reisebrev - Grand Canyon
 date:   2018-03-19 16:32:20 +0100
 img: DSC01104.jpg # Add image post (optional)
-tags: [TTU, March18, Grand Canyon]
+tags: [TTU, March18, Grand Canyon, Reisebrev]
 author: Mia Olea 
 ---
 Hei! Som tidligere nevnt rakk vi en snartur innom sørsiden av Grand Canyon mens vi var i Las Vegas. Værgudene var ikke helt på vår side, men det kunne så absolutt vært verre. Gradestokken viste flere plussgrader og regnbygene var aldri lange eller særlig kraftige. Jeg sjekket selvfølgelig værmeldingen og pakket deretter, så gummistøvler, regnjakke, ull og superundertøy holdt meg varm og tørr stort sett hele turen. Det finnes jo ikke dårlig vær, bare dårlig klær, og det gjelder selvfølgelig utenfor Norges landegrenser også. Fjellstøvlene mine står derimot og støver ned i boden hjemme (usikker på om de er på Nøtterøy eller i Trondheim for øyeblikket), så noen særlig lang fjelltur ble det ikke. Å forville seg ned til bunn av dalen uten godt fottøy, GPS, mobildekning eller støttestaver sto ikke akkurat øverst på ønskelista, så det sto vi pent over. Jeg hadde derimot med meg en ekstra genser, ullsokker og vann, så litt forberedt kan jeg skryte på meg å ha vært. 
