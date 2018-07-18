@@ -3,7 +3,7 @@ layout: post
 title:  Reisebrev - San Francisco
 date:   2018-07-18 18:32:20 +0100
 img: DSC02075.jpg # Add image post (optional)
-tags: [July18, Reisebrev, CSan Francisco]
+tags: [July18, Reisebrev, San Francisco]
 author: Mia Olea 
 ---
 **Søndag 27.05.18**
