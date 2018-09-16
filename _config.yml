@@ -37,6 +37,12 @@ analytics: # Google Analytics
 paginate: 6
 paginate_path: /page:num/
 
+# Google Analytics
+analytics:
+      provider: "google-universal"
+    google:
+    tracking_id: "UA-115006598-1"
+
 # Build settings
 markdown: kramdown
 
