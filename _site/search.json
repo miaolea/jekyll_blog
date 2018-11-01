@@ -1,19 +1,19 @@
 [
   
     {
+      "title"    : "Jonatan",
+      "category" : "",
+      "tags"     : "November18",
+      "url"      : "/jonatan/",
+      "date"     : "2018-11-01 12:10:20 +0100"
+    } ,
+  
+    {
       "title"    : "Å miste et kjæledyr",
       "category" : "",
       "tags"     : "October18",
       "url"      : "/a-miste-et-kj%C3%A6ledyr/",
       "date"     : "2018-10-29 17:40:20 +0100"
-    } ,
-  
-    {
-      "title"    : "CrossFit og treningsglede",
-      "category" : "",
-      "tags"     : "September18, CrossFit",
-      "url"      : "/crossfit-og-treningsglede/",
-      "date"     : "2018-09-06 13:32:20 +0200"
     } ,
   
     {
